@@ -35,8 +35,5 @@ x
 y
 z
 aaaaa
-<<<<<<< HEAD
 bbbbb
-=======
 ccccc
->>>>>>> e5acf42d6da60ec5589fff81a9fbaf6726cdad44
