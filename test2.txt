@@ -22,6 +22,7 @@ k
 l
 m
 n
+<<<<<<< HEAD
 o
 p
 q
